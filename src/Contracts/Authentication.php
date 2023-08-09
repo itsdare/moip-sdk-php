@@ -2,7 +2,7 @@
 
 namespace Moip\Contracts;
 
-use Requests_Auth;
+use WpOrg\Requests\Auth as  Requests_Auth;
 
 /**
  * Interface Authentication.

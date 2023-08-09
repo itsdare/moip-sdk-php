@@ -17,7 +17,7 @@ use Moip\Resource\Payment;
 use Moip\Resource\Refund;
 use Moip\Resource\Transfers;
 use Moip\Resource\WebhookList;
-use Requests_Session;
+use WpOrg\Requests\Session as  Requests_Session;
 
 /**
  * Class Moip.

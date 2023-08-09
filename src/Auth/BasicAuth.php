@@ -3,7 +3,7 @@
 namespace Moip\Auth;
 
 use Moip\Contracts\Authentication;
-use Requests_Hooks;
+use WpOrg\Requests\Hooks as Requests_Hooks;
 
 /**
  * Class BasicAuth.

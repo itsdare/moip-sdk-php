@@ -8,9 +8,9 @@ use Moip\Exceptions\InvalidArgumentException;
 use Moip\Exceptions\UnexpectedException;
 use Moip\Exceptions\ValidationException;
 use Moip\Moip;
-use Requests_Exception;
-use Requests_Hooks;
-use Requests_Session;
+use WpOrg\Requests\Exception as  Requests_Exception;
+use WpOrg\Requests\Hooks as  Requests_Hooks;
+use WpOrg\Requests\Session as  Requests_Session;
 
 /**
  * Class Connect.
