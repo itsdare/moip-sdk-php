@@ -5,7 +5,7 @@ namespace Moip\Tests;
 use Moip\Exceptions;
 use Moip\Helper\Utils;
 use Moip\Moip;
-use Requests_Exception;
+use WpOrg\Requests\Exception as Requests_Exception;
 
 /**
  * class MoipTest.

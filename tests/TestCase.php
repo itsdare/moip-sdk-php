@@ -8,7 +8,7 @@ use Moip\Resource\Customer;
 use Moip\Resource\Holder;
 use Moip\Resource\Orders;
 use PHPUnit\Framework\TestCase as BaseTestCase;
-use Requests_Response;
+use WpOrg\Requests\Response as Requests_Response;
 
 /**
  * class TestCase.

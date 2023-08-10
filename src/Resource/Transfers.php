@@ -4,7 +4,7 @@ namespace Moip\Resource;
 
 use Moip\Helper\Filters;
 use Moip\Helper\Pagination;
-use Requests;
+use WpOrg\Requests\Requests;
 use stdClass;
 
 /**

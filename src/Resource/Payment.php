@@ -2,7 +2,7 @@
 
 namespace Moip\Resource;
 
-use Requests;
+use WpOrg\Requests\Requests;
 use stdClass;
 
 /**

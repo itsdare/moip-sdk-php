@@ -3,7 +3,7 @@
 namespace Moip\Resource;
 
 use ArrayIterator;
-use Requests;
+use WpOrg\Requests\Requests;
 use stdClass;
 
 /**
