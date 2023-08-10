@@ -8,8 +8,8 @@ use Moip\Helper\Filters;
 use Moip\Helper\Links;
 use Moip\Helper\Pagination;
 use Moip\Moip;
-use Requests;
-use Requests_Exception;
+use WpOrg\Requests\Requests;
+use WpOrg\Requests\Exception as Requests_Exception;
 use stdClass;
 
 /**
